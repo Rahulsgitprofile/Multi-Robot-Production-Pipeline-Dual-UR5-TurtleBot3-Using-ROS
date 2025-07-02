@@ -2,6 +2,18 @@
 Multi-robot production-line in Gazebo, featuring two UR5 arms and a TurtleBot3 mobile robot, to autonomously pick up a box from a conveyor, transport it between stations, and place it into a final bin.
 
 
+<p align="center">
+  <a href="https://youtu.be/YOUR_VIDEO_LINK">
+    <img src="https://github.com/user-attachments/assets/abafff73-52f3-4768-b1d2-ec6fea4bcf95" alt="Multi-Robot Factory Simulation" width="600"/>
+  </a>
+</p>
+
+
+## 🎥 Demo Video
+[▶️ WATCH DEMO VIDEO ON GOOGLE DRIVE](https://drive.google.com/file/d/1gnKVThnyySe0hRxu6SZ9z__KNZJjfCCk/view?usp=sharing)
+
+
+
 ### 🗺️ TurtleBot3 SLAM Mapping
 
 TurtleBot3 explores and maps an unknown environment using SLAM (Simultaneous Localization and Mapping). The 2D occupancy grid below was generated using LIDAR data in a simulated Gazebo world.
