@@ -29,7 +29,7 @@ TurtleBot3 explores and maps an unknown environment using SLAM (Simultaneous Loc
 
 ### 🤖 Robot Arm Manipulation with MoveIt
 
-Using the MoveIt framework, a robotic arm (UR5) plans and executes precise pick-and-place motions. Below is a video showing trajectory planning and object manipulation in a simulated environment.
+Using the MoveIt framework, a robotic arm (UR5) plans and executes precise pick-and-place motions. Below is a picture showing the robot in the simulated environment.
 
 <p align="center">
   <a href="https://youtu.be/YOUR_VIDEO_LINK">
@@ -77,7 +77,7 @@ This repository contains a comprehensive robotics project built with ROS, demons
 1. **Environment Modeling & Robot Description**
 2. **Autonomous Navigation**
 3. **Robot Manipulation**
-4. **Computer Vision Integration**
+4. **Vision Integration**
 5. **Factory Automation**
 
 Each stage is organized into its own folder, complete with code, launch files, and documentation.
