@@ -98,3 +98,11 @@ Each stage is organized into its own folder, complete with code, launch files, a
 ├── Week4_Robot_Manipulation/             # MoveIt! setups and pick-and-place routines
 ├── Week5_Robot_Vision/                   # Vision tasks using OpenCV and ROS image topics
 └── Week6_Autonomous Factory/             # Coordinated factory simulations with multiple agents
+ ```
+---
+
+
+## 📜 Credits
+
+This project is based on and inspired by the **“Hello (Real) World with ROS – Robot Operating System”** course offered by DelftX on edX. The course provided the foundational material and structure for this multi-stage robotics simulation and programming project.
+
