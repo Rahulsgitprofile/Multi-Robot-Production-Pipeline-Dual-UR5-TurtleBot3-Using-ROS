@@ -3,9 +3,8 @@ Multi-robot production-line in Gazebo, featuring two UR5 arms and a TurtleBot3 m
 
 
 <p align="center">
-  <a href="https://youtu.be/YOUR_VIDEO_LINK">
-    <img src="https://github.com/user-attachments/assets/abafff73-52f3-4768-b1d2-ec6fea4bcf95" alt="Multi-Robot Factory Simulation" width="600"/>
-  </a>
+  <img src="https://github.com/user-attachments/assets/abafff73-52f3-4768-b1d2-ec6fea4bcf95" alt="Multi-Robot Factory Simulation" width="500"/>
+  <img src="https://github.com/user-attachments/assets/adf521f5-bd0d-47c6-8bec-2fc4cc6a9c1e" alt="Robot Factory Simulation" width="500"/>
 </p>
 
 
